@@ -19,6 +19,7 @@ function Board(){
         <button className="square">9</button>
       </div>
 
+
     </>
   )
 
